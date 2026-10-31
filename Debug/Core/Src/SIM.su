@@ -1,0 +1,7 @@
+../Core/Src/SIM.c:27:13:Sim_CheckConnection	16	static
+../Core/Src/SIM.c:54:6:Sim_SendLocationDangerous	40	static
+../Core/Src/SIM.c:74:6:Sim_SendLocationDangerousStudent	40	static
+../Core/Src/SIM.c:94:6:Sim_SendLocation	40	static
+../Core/Src/SIM.c:114:6:Sim_SendLocationStudent	40	static
+../Core/Src/SIM.c:134:13:Sim_Transmit	16	static
+../Core/Src/SIM.c:140:6:Sim_httpPost	48	static
